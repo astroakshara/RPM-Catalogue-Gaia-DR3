@@ -6,3 +6,5 @@ The distribution of these sources in the sky, together with their tangential com
 
 Such a main sequence stars sample with the largest halo cartograph in the era of Gaia can also be used to provide spectroscopic targets to the next big spectroscopic surveys such as WEAVE, 4MOST, and SDSS-V because this catalogue complements the Gaia DR3 source spectra at the fainter end. Even low-resolution spectroscopic follow-up that can provide us with the missing line-of-sight velocities and/or metallicities can be extremely useful to disentangle the merger history of the inner stellar halo. 
 
+Here we present a user-friendly python code to create your own reduced proper motion halo catalogue of main sequence stars. Have fun :)
+
