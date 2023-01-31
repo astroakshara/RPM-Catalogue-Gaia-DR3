@@ -1,6 +1,6 @@
 # RPM-Catalogue-Gaia-DR3
 
-  With the advent of the European Space Agency’s Gaia mission and
+  	With the advent of the European Space Agency’s Gaia mission and
 	its recent data releases EDR3 and DR3, the astronomy community
 	has obtained the largest-ever cartograph of our Milky Way galaxy
 	with unprecedented astrometric parameters. In this paper, we have
